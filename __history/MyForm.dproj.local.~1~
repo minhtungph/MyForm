@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/02 20:47:29.000.882,=D:\Dropbox\Delphi\Project\ThiNghiem\Unit1.pas</Transaction>
+    <Transaction>2021/10/02 20:47:52.000.622,D:\Dropbox\Delphi\Project\ThiNghiem\MyForm.dproj=D:\Dropbox\Delphi\Project\ThiNghiem\Project1.dproj</Transaction>
+    <Transaction>2021/10/02 20:48:13.000.338,D:\Dropbox\Delphi\Project\ThiNghiem\GetStockData.pas=D:\Dropbox\Delphi\Project\ThiNghiem\Unit1.pas</Transaction>
+    <Transaction>2021/10/02 20:48:13.000.338,D:\Dropbox\Delphi\Project\ThiNghiem\GetStockData.dfm=D:\Dropbox\Delphi\Project\ThiNghiem\Unit1.dfm</Transaction>
+    <Transaction>2021/10/02 21:34:31.000.982,D:\Dropbox\Delphi\Project\MyForm\GetStockData.dfm=D:\Dropbox\Delphi\Project\ThiNghiem\GetStockData.dfm</Transaction>
+    <Transaction>2021/10/02 21:34:31.000.982,D:\Dropbox\Delphi\Project\MyForm\GetStockData.pas=D:\Dropbox\Delphi\Project\ThiNghiem\GetStockData.pas</Transaction>
+    <Transaction>2021/10/02 21:34:36.000.992,D:\Dropbox\Delphi\Project\MyForm\MyForm.dproj=D:\Dropbox\Delphi\Project\ThiNghiem\MyForm.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

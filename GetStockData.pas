@@ -49,8 +49,9 @@ begin
        while e.parentElement <> nil do
        begin
          e := e.parentElement;
+         //e := e.parentElement;
        end;
-
+        //tung
        ShowMessage( e.outerHTML);
     end;
 
